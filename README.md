@@ -1,4 +1,4 @@
-# springboot-websocket-demo
+# websocket-game-demo
 
 WebSocket入门教程示例代码
 
